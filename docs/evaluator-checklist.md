@@ -1,0 +1,38 @@
+# Final evaluator checklist
+
+- [x] Real frontend
+- [x] Real backend
+- [x] Persistent database
+- [x] AI integration
+- [x] Structured role/process/activity/skill data
+- [x] 20–50 initial roles
+- [x] Dynamic new role
+- [x] No hard-coded role answers
+- [x] Role comparison
+- [x] AI impact
+- [x] Automation
+- [x] Augmentation
+- [x] Human-led activities
+- [x] Future responsibilities
+- [x] Future skills
+- [x] Reskilling priority
+- [x] Explainability
+- [x] Evidence/research
+- [x] Error handling
+- [x] AI failure handling
+- [x] LLM call reduction
+- [x] Persistence after restart
+- [x] Testing
+- [x] README
+- [x] Architecture diagram
+- [x] Database model
+- [x] Licence inventory
+- [x] Sample/synthetic data
+- [x] Demo flow
+- [x] Surprise-record test
+- [x] Scalability explanation
+- [x] Source code understandable
+- [x] No paid dependency required
+- [x] No giant single prompt
+- [x] No notebook-only functionality
+- [x] No static AI-generated results
