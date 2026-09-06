@@ -87,6 +87,17 @@ npm install
 npm run dev
 ```
 
+### Free deployment with Render
+
+The repository includes `render.yaml` for a free two-service deployment:
+
+1. Push this repository to GitHub.
+2. In Render, choose **New > Blueprint** and select the GitHub repository.
+3. Render will create the FastAPI API and Next.js frontend services from `render.yaml`.
+4. Open the frontend service URL. The frontend automatically receives the backend service URL.
+
+The free backend uses the existing SQLite database and seeds demo data on startup. Render free services can sleep and their local disk is ephemeral, so newly created roles and analyses are intended for demos rather than permanent storage.
+
 ### 3. Environment variables
 Set optional variables for AI integration:
 ```bash
